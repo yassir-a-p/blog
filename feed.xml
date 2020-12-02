@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Berbagi Walau Secuil</title>
+    <link href="https://yassir-a-p.github.io/blog/feed.xml" rel="self" />
+    <link href="https://yassir-a-p.github.io/blog" />
+    <updated>2020-12-02T22:40:54+07:00</updated>
+    <author>
+        <name>Yassir A. P.</name>
+    </author>
+    <id>https://yassir-a-p.github.io/blog</id>
+
+    <entry>
+        <title>Apa sih Aplikasi Blender itu?</title>
+        <author>
+            <name>Yassir A. P.</name>
+        </author>
+        <link href="https://yassir-a-p.github.io/blog/apa-itu-aplikasi-blender/"/>
+        <id>https://yassir-a-p.github.io/blog/apa-itu-aplikasi-blender/</id>
+            <category term="Blender"/>
+
+        <updated>2020-12-02T22:40:54+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline. -- Blender.org T: Apa sih aplikasi Blender itu? J: Blender adalah aplikasi yang&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--highlight "><em>Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.<br>-- <a href="https://www.blender.org/" title="Blender - Free and Open Source 3D Creation Suite" target="_blank" rel="noopener noreferrer">Blender.org</a></em></p>
+<hr>
+<p>T: <em>Apa sih aplikasi Blender itu?</em></p>
+<p>J: <strong>Blender</strong> adalah aplikasi yang gratis (<em>free</em>) dan berkode terbuka (<em>open source</em>) yang merupakan rangkaian alat untuk mencipta karya tiga dimensi digital.</p>
+<p>T: <em>Maksudnya gimana sih? Bisa dijelaskan pakai bahasa manusia? </em>😅</p>
+<p>J: Hehehe... OK... Blender itu aplikasi yang bisa digunakan untuk <em>bikin</em> karya tiga dimensi, mulai jenis VFX realistis seperti film Transformer, hingga film full animasi 3D seperti film Toy's Story.</p>
+<p class="msg msg--success"><em>Bersambung...<br>(Blog dan artikel ini masih dalam tahap awal, akan banyak mengalami perubahan dalam waktu dekat)</em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Persiapan Sebelum Memasang (Instalasi) Linux</title>
+        <author>
+            <name>Yassir A. P.</name>
+        </author>
+        <link href="https://yassir-a-p.github.io/blog/persiapan-sebelum-memasang-instalasi-linux/"/>
+        <id>https://yassir-a-p.github.io/blog/persiapan-sebelum-memasang-instalasi-linux/</id>
+            <category term="Open Source"/>
+            <category term="GNU/Linux"/>
+
+        <updated>2020-12-02T22:40:35+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Untuk memudahkan penjelasan, saya kemas panduan ini dalam bentuk tanya jawab dengan sedikit humor dan suasana informal. Tulisan ini saya tujukan untuk orang-orang yang ingin sekedar mencoba atau sudah berniat berpindah dari Windows ke sistem operasi/distro berbasis Linux yang mudah dipasang (learning curve yang relatif&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--highlight "><em>Untuk memudahkan penjelasan, saya kemas panduan ini dalam bentuk tanya jawab dengan sedikit humor dan suasana informal.</em><br><em>Tulisan ini saya tujukan untuk orang-orang yang ingin sekedar mencoba atau sudah berniat berpindah dari Windows ke sistem operasi/distro berbasis Linux yang mudah dipasang (</em>learning curve<em> yang relatif lebih rendah) dan ditujukan untuk penggunaan sehari-hari, seperti: menggunakan aplikasi </em>office<em>, berselancar (</em>browsing<em>) di internet, menggunakan aplikasi desain/kreatif, </em>coding<em>/ </em>programming<em>, dll.<br></em><br><em>Jadi untuk para veteran dan senior tidak perlu menanyakan lagi kenapa tidak saya cantumkan Arch Linux, Gentoo, LFS, dsb. Atau tidak perlu menanyakan, "Kenapa harus mirip OS sebelah sih?" Karena saya ingin menyarankan distro-distro dan DE yang lebih familier bagi pemula untuk mengurangi </em>culture shock. 😉</p>
+<p><span style="color: #e67e23;"><em>T: Tanya</em></span><br><span style="color: #e67e23;"><em>J: Jawab</em></span><br><br>T: Permisi, saya mau install Linux untuk pertama kali, bagusnya Linux yang mana ya?<br>J: <em><span style="text-decoration: line-through;">Linux itu kernelnya, mungkin maksud kamu distro GNU/Linux ya? Linux itu hanya kernel saja, kemudian ditambah dengan berbagai software yang kemudian blablabla...<br></span></em>Sistem operasi berdasarkan Linux biasa disebut "<strong>distro</strong>", dan banyak macamnya. Untuk pemula, ada banyak pilihan, dan menurut saya pribadi tidak perlu bingung pilih yang mana, cukup pilih secara acak salah satu dari distro berikut 😅 :</p>
+<ul>
+<li>Kubuntu</li>
+<li>Zorin OS Core</li>
+<li>MX Linux KDE</li>
+</ul>
+<p><em><strong>Catatan</strong>: Distro-distro tersebut lebih disarankan untuk komputer/laptop dengan spek minimum: prosesor 2 GHz dual core, RAM 4 GB, dan 30GB ruang kosong pada media penyimpanan (harddisk, SSD)</em><br><em>Jika mempunyai prosesor dan RAM 2 GB atau di bawahnya, silahkan menggunakan salah satu distro berikut:</em> Lubuntu, Xubuntu, Ubuntu MATE, Zorin OS Lite, MX Linux Xfce.<br><br>T: Saya sudah pilih satu, lalu bagaimana?<br>J: Sudah bisa atur partisi sendiri? Coba baca sedikit tulisan om Ade <a href="https://malsasa.wordpress.com/2014/05/22/kesalahan-kesalahan-umum-instalasi-linux-dualboot/" target="_blank" rel="noopener noreferrer">di sini</a>.<br>Kebanyakan pengguna komputer biasa menyerahkan instalasi OS kepada teknisi atau penjual komputer, sehingga tidak terbiasa mengatur sendiri partisi hard drive. Masalah yang muncul adalah ketika sekarang ini, untuk memasang OS, kita harus sedikit tahu tentang mode boot UEFI vs Legacy (BIOS) yang kemudian berhubungan dengan jenis tabel partisi </p>
+<p>T: Saya sudah pilih satu, lalu bagaimana?<br>J: Eits, maunya dual boot (install distro Linux tanpa menghapus Windows), atau single boot distro Linux saja? <br><br></p>
+<p class="msg--highlight    msg--success msg"><em>Bersambung...<br>(Blog dan artikel ini masih dalam tahap awal, akan banyak mengalami perubahan dalam waktu dekat)</em></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,44 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Berbagi Walau Secuil",
+    "description": "",
+    "home_page_url": "https://yassir-a-p.github.io/blog",
+    "feed_url": "https://yassir-a-p.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Yassir A. P."
+    },
+    "items": [
+        {
+            "id": "https://yassir-a-p.github.io/blog/apa-itu-aplikasi-blender/",
+            "url": "https://yassir-a-p.github.io/blog/apa-itu-aplikasi-blender/",
+            "title": "Apa sih Aplikasi Blender itu?",
+            "summary": "Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline. -- Blender.org T: Apa sih aplikasi Blender itu? J: Blender adalah aplikasi yang&hellip;",
+            "content_html": "<p class=\"msg msg--highlight \"><em>Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.<br>-- <a href=\"https://www.blender.org/\" title=\"Blender - Free and Open Source 3D Creation Suite\" target=\"_blank\" rel=\"noopener noreferrer\">Blender.org</a></em></p>\n<hr>\n<p>T: <em>Apa sih aplikasi Blender itu?</em></p>\n<p>J: <strong>Blender</strong> adalah aplikasi yang gratis (<em>free</em>) dan berkode terbuka (<em>open source</em>) yang merupakan rangkaian alat untuk mencipta karya tiga dimensi digital.</p>\n<p>T: <em>Maksudnya gimana sih? Bisa dijelaskan pakai bahasa manusia? </em>😅</p>\n<p>J: Hehehe... OK... Blender itu aplikasi yang bisa digunakan untuk <em>bikin</em> karya tiga dimensi, mulai jenis VFX realistis seperti film Transformer, hingga film full animasi 3D seperti film Toy's Story.</p>\n<p class=\"msg msg--success\"><em>Bersambung...<br>(Blog dan artikel ini masih dalam tahap awal, akan banyak mengalami perubahan dalam waktu dekat)</em></p>",
+            "author": {
+                "name": "Yassir A. P."
+            },
+            "tags": [
+                   "Blender"
+            ],
+            "date_published": "2020-11-19T09:59:22+07:00",
+            "date_modified": "2020-12-02T22:40:54+07:00"
+        },
+        {
+            "id": "https://yassir-a-p.github.io/blog/persiapan-sebelum-memasang-instalasi-linux/",
+            "url": "https://yassir-a-p.github.io/blog/persiapan-sebelum-memasang-instalasi-linux/",
+            "title": "Persiapan Sebelum Memasang (Instalasi) Linux",
+            "summary": "Untuk memudahkan penjelasan, saya kemas panduan ini dalam bentuk tanya jawab dengan sedikit humor dan suasana informal. Tulisan ini saya tujukan untuk orang-orang yang ingin sekedar mencoba atau sudah berniat berpindah dari Windows ke sistem operasi/distro berbasis Linux yang mudah dipasang (learning curve yang relatif&hellip;",
+            "content_html": "<p class=\"msg msg--highlight \"><em>Untuk memudahkan penjelasan, saya kemas panduan ini dalam bentuk tanya jawab dengan sedikit humor dan suasana informal.</em><br><em>Tulisan ini saya tujukan untuk orang-orang yang ingin sekedar mencoba atau sudah berniat berpindah dari Windows ke sistem operasi/distro berbasis Linux yang mudah dipasang (</em>learning curve<em> yang relatif lebih rendah) dan ditujukan untuk penggunaan sehari-hari, seperti: menggunakan aplikasi </em>office<em>, berselancar (</em>browsing<em>) di internet, menggunakan aplikasi desain/kreatif, </em>coding<em>/ </em>programming<em>, dll.<br></em><br><em>Jadi untuk para veteran dan senior tidak perlu menanyakan lagi kenapa tidak saya cantumkan Arch Linux, Gentoo, LFS, dsb. Atau tidak perlu menanyakan, \"Kenapa harus mirip OS sebelah sih?\" Karena saya ingin menyarankan distro-distro dan DE yang lebih familier bagi pemula untuk mengurangi </em>culture shock. 😉</p>\n<p><span style=\"color: #e67e23;\"><em>T: Tanya</em></span><br><span style=\"color: #e67e23;\"><em>J: Jawab</em></span><br><br>T: Permisi, saya mau install Linux untuk pertama kali, bagusnya Linux yang mana ya?<br>J: <em><span style=\"text-decoration: line-through;\">Linux itu kernelnya, mungkin maksud kamu distro GNU/Linux ya? Linux itu hanya kernel saja, kemudian ditambah dengan berbagai software yang kemudian blablabla...<br></span></em>Sistem operasi berdasarkan Linux biasa disebut \"<strong>distro</strong>\", dan banyak macamnya. Untuk pemula, ada banyak pilihan, dan menurut saya pribadi tidak perlu bingung pilih yang mana, cukup pilih secara acak salah satu dari distro berikut 😅 :</p>\n<ul>\n<li>Kubuntu</li>\n<li>Zorin OS Core</li>\n<li>MX Linux KDE</li>\n</ul>\n<p><em><strong>Catatan</strong>: Distro-distro tersebut lebih disarankan untuk komputer/laptop dengan spek minimum: prosesor 2 GHz dual core, RAM 4 GB, dan 30GB ruang kosong pada media penyimpanan (harddisk, SSD)</em><br><em>Jika mempunyai prosesor dan RAM 2 GB atau di bawahnya, silahkan menggunakan salah satu distro berikut:</em> Lubuntu, Xubuntu, Ubuntu MATE, Zorin OS Lite, MX Linux Xfce.<br><br>T: Saya sudah pilih satu, lalu bagaimana?<br>J: Sudah bisa atur partisi sendiri? Coba baca sedikit tulisan om Ade <a href=\"https://malsasa.wordpress.com/2014/05/22/kesalahan-kesalahan-umum-instalasi-linux-dualboot/\" target=\"_blank\" rel=\"noopener noreferrer\">di sini</a>.<br>Kebanyakan pengguna komputer biasa menyerahkan instalasi OS kepada teknisi atau penjual komputer, sehingga tidak terbiasa mengatur sendiri partisi hard drive. Masalah yang muncul adalah ketika sekarang ini, untuk memasang OS, kita harus sedikit tahu tentang mode boot UEFI vs Legacy (BIOS) yang kemudian berhubungan dengan jenis tabel partisi </p>\n<p>T: Saya sudah pilih satu, lalu bagaimana?<br>J: Eits, maunya dual boot (install distro Linux tanpa menghapus Windows), atau single boot distro Linux saja? <br><br></p>\n<p class=\"msg--highlight    msg--success msg\"><em>Bersambung...<br>(Blog dan artikel ini masih dalam tahap awal, akan banyak mengalami perubahan dalam waktu dekat)</em></p>",
+            "author": {
+                "name": "Yassir A. P."
+            },
+            "tags": [
+                   "Open Source",
+                   "GNU/Linux"
+            ],
+            "date_published": "2020-11-18T22:32:53+07:00",
+            "date_modified": "2020-12-02T22:40:35+07:00"
+        }
+    ]
+}

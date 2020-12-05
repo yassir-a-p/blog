@@ -3,12 +3,54 @@
     <title>Berbagi Walau Secuil</title>
     <link href="https://yassir-a-p.github.io/blog/feed.xml" rel="self" />
     <link href="https://yassir-a-p.github.io/blog" />
-    <updated>2020-12-02T22:40:54+07:00</updated>
+    <updated>2020-12-05T11:11:58+07:00</updated>
     <author>
         <name>Yassir A. P.</name>
     </author>
     <id>https://yassir-a-p.github.io/blog</id>
 
+    <entry>
+        <title>Devlog Pribadi: BlankOn 12 Verbeek</title>
+        <author>
+            <name>Yassir A. P.</name>
+        </author>
+        <link href="https://yassir-a-p.github.io/blog/devlog-blankon-12-verbeek/"/>
+        <id>https://yassir-a-p.github.io/blog/devlog-blankon-12-verbeek/</id>
+            <category term="Open Source"/>
+            <category term="GNU/Linux"/>
+            <category term="BlankOn"/>
+
+        <updated>2020-12-05T11:11:58+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://yassir-a-p.github.io/blog/media/posts/4/NugrohoDwiHartawan-blankon_metal_tile-Verbeek-1280-520.webp" alt="" />
+                    Sebenarnya saya malu untuk menggolongkan ini sebagai Devlog, developer's log, alias jurnal developer (pengembang). Belum ada kontribusi apa-apa, tapi sudah sok sudah pantas mengaku ikut mengembangkan. 😅 Tapi semoga niat baik ini benar-benar terlaksana dan dapat berkontribusi, yang minimal tidak malu-maluin dan tidak hanya sekedar&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://yassir-a-p.github.io/blog/media/posts/4/NugrohoDwiHartawan-blankon_metal_tile-Verbeek-1280-520.webp" alt="" />
+                <pre>Sebenarnya saya malu untuk menggolongkan ini sebagai Devlog, <em>developer's log</em>, alias jurnal <em>developer </em>(pengembang). Belum ada kontribusi apa-apa, tapi sudah sok sudah pantas mengaku ikut mengembangkan. 😅<br>Tapi semoga niat baik ini benar-benar terlaksana dan dapat berkontribusi, yang minimal tidak <em>malu-maluin </em>dan tidak hanya sekedar tulis nama. Aamiin...</pre>
+<h2><span style="color: #17a4a0;">Awal Mula</span></h2>
+<p>Per tanggal 3 Desember 2020, saya kirim surel ke <a href="https://groups.google.com/g/blankon-dev/" title="Milis alias mailing list Pengembang BlankOn" target="_blank" rel="noopener noreferrer">milis Pengembang BlankOn</a>, mengajukan diri bergabung menjadi anggota tim Pengembang BlankOn, khususnya untuk rilis Verbeek yang akan datang. Saya mengajukan diri nekat masuk sebagai anggota Tim Pemaket, tim yang kurang lebih memroses dan merawat paket-paket yang nantinya sering digunakan pengguna, yang familier bagi pengguna umum yaitu ketika memasang aplikasi tertentu dengan perintah <code>apt/apt-get install</code> ataupun memperbarui semua pembaruan dari paket-paket yang ada dengan <code>apt/apt-get upgrade</code>, yang sebenarnya sudah bisa diakses secara modern lewat GUI seperti pada s<em>oftwares center</em> semacam <strong>Discover</strong> pada Plasma, atau <strong>Softwares</strong> pada Gnome.</p>
+<p>Surel ditahan (pending) sehingga tidak langsung terkirim, saya asumsikan untuk antisipasi kiriman-kiriman spam ke dalam milis. Malam harinya email saya disetujui dan terkirim ke milis, dan langsung disambut oleh pak <a href="https://github.com/herpiko" title="Herpiko Dwi Aguno" target="_blank" rel="noopener noreferrer">Herpiko</a> selaku Manajer Rilis Verbeek. Kemudian pak <a href="https://github.com/hahn" title="Hahan Husna" target="_blank" rel="noopener noreferrer">Hahn</a> selaku Koordinator tim Pemaket juga menimpali dan <span style="text-decoration: underline;">berusaha</span> memasukkan saya ke grup tertutup tim Pengembang BlankOn di Telegram. Tapi sayang saat itu saya lupa membiarkan pengaturan akun saya tidak mengijinkan orang lain menambahkan saya ke grup 😆, sehingga pak Hahn harus kirim pesan pribadi via Telegram, dan baru saya buka. Untung saja waktu itu saya masih belum tidur, jadi bisa cepat ditambahkan ke grup yang dimaksud. (<em>Baru masuk sudah menyusahkan</em> 😆)</p>
+<p>Selanjutnya, saya akan menuliskan jurnal singkat mengenai sejauh mana hasil perkembangan saya mempelajari cara mengurus paket pada distro Debian dan turunannya. Akan saya tulis singkat seperti <a href="https://wiki.blender.org/wiki/User:JacquesLucke/Reports/2020" target="_blank" rel="noopener noreferrer">laporan kerja pengembang Blender</a>, hanya berisi ringkasan poin-poin penting dalam rentang waktu tertentu. Untuk <em>devlog</em> ini, saya juga tulis per 1 minggu, jika dalam minggu berjalan, maka akan ada kategori <code><em><span style="color: #ba372a;">To Do</span></em></code> (yang harus dikerjakan), <code><span style="color: #b96ad9;"><em>In Progress</em></span></code> (sedang dikerjakan), dan <code><em><span style="color: #2dc26b;">Done</span></em></code> (selesai).</p>
+<p><em>Bismillah...</em></p>
+<h3><span style="color: #17a4a0;">Minggu ke-1: 03-09 Desember 2020</span></h3>
+<hr>
+<ul style="list-style-type: square;">
+<li>Membaca panduan pemaketan yang telah ditulis tim BlankOn dan referensi panduan dari Debian:
+<ol style="list-style-type: lower-alpha;">
+<li><a href="http://antosamalona.onmi.my.id/membuat-paket-di-blankon/" target="_blank" rel="noopener noreferrer">Membuat Paket di BlankOn</a>, blog pak Anto <code><span style="color: #b96ad9;"><em>In Progress</em></span></code></li>
+<li><a href="https://github.com/BlankOn/wiki/blob/master/TimPengembang/Pemaket/PanduanIrgshCLIUntukPemaket.md" target="_blank" rel="noopener noreferrer">Panduan IrgshCLI untuk Pemaket</a> <code><em><span style="color: #ba372a;">To Do</span></em></code></li>
+<li><a href="https://github.com/BlankOn/wiki/blob/master/TimPengembang/Pemaket/PanduanPemaketanMenggunakanIrgshCLI.md" target="_blank" rel="noopener noreferrer">Panduan Pemaketan Menggunakan IrgshCLI</a> <code><em><span style="color: #ba372a;">To Do</span></em></code></li>
+<li>Referensi: <a href="https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.en.pdf" title="Debian's Packaging Tutorial as a PDF document" target="_blank" rel="noopener noreferrer">Packaging Tutorial</a> oleh Debian. <code><em><span style="color: #ba372a;">To Do</span></em></code></li>
+</ol>
+</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Apa sih Aplikasi Blender itu?</title>
         <author>

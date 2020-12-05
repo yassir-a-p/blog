@@ -1,0 +1,277 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "633596423ce6a21ea06a7992fb9ddfeb"
+    },
+    {
+        "path": "apa-itu-aplikasi-blender",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/apa-itu-aplikasi-blender/index.html",
+        "type": "file",
+        "md5": "5f67516bd5aab039809913425bff3f25"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "0261089e6bc7353f302e17455412d725"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "ffb247881cd6f611d007fd4a96b7b16a"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "c52c9cd5e60340dab2eb00b07f5d52b8"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "fc61ec11990fdefc13aae62f2f414832"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "3dc768003cc6d66c9e7bf0904e71d3e8"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "e05b5782d7cfb0e230703527e8067fed"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "452594838e74a3df91ad4a20cf53c831"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "5ee1b50f16cb5638b0c0943ee68ed9de"
+    },
+    {
+        "path": "devlog-blankon-12-verbeek",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/devlog-blankon-12-verbeek/index.html",
+        "type": "file",
+        "md5": "a1e31ddda8f43127255fcb84d94d5e7f"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "ed64d72b402a824a58cf22150ab51702"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "eeb2c8c7f9944db83f085eac3c1662ab"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "217def6323f3cf3727ddd40462ef9bec"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/NugrohoDwiHartawan-blankon_metal_tile-Verbeek-1280-520.webp",
+        "type": "file",
+        "md5": "eb1d160127e18de79cebe9a4a0a20499"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/tags/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/tags/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "penulis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "penulis/yassir-a-p",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/penulis/yassir-a-p/index.html",
+        "type": "file",
+        "md5": "15470edd5e50b9d46bcae271ca834bdf"
+    },
+    {
+        "path": "persiapan-sebelum-memasang-instalasi-linux",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/persiapan-sebelum-memasang-instalasi-linux/index.html",
+        "type": "file",
+        "md5": "718377b345d32a634a102368cb837a01"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "53cf550b4d3ded6137972f536e9c231a"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "4bbc98990c237797df1c74e7334fb608"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "25d5946199a264c4fc7475f1246827c8"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tag",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tag/blankon",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tag/blankon/index.html",
+        "type": "file",
+        "md5": "92c6286d2e1499baa45440fa957964ea"
+    },
+    {
+        "path": "tag/blender",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tag/blender/index.html",
+        "type": "file",
+        "md5": "8ede48708610c215227d0badd866e0e7"
+    },
+    {
+        "path": "tag/gnulinux",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tag/gnulinux/index.html",
+        "type": "file",
+        "md5": "26f4fc5460d3e55b09523c8d86d914aa"
+    },
+    {
+        "path": "/tag/index.html",
+        "type": "file",
+        "md5": "d760b9a7289a6283313e66a5a15a6e93"
+    },
+    {
+        "path": "tag/open-source",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tag/open-source/index.html",
+        "type": "file",
+        "md5": "5b210783845bf3ccf543cebcfb550f96"
+    }
+]

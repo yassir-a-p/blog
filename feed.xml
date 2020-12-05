@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Berbagi Walau Secuil</title>
-    <link href="https://yassir-a-p.github.io/blog/feed.xml" rel="self" />
-    <link href="https://yassir-a-p.github.io/blog" />
-    <updated>2020-12-05T11:11:58+07:00</updated>
+    <link href="https://yassir-a-p.github.io/feed.xml" rel="self" />
+    <link href="https://yassir-a-p.github.io" />
+    <updated>2020-12-05T23:06:50+07:00</updated>
     <author>
         <name>Yassir A. P.</name>
     </author>
-    <id>https://yassir-a-p.github.io/blog</id>
+    <id>https://yassir-a-p.github.io</id>
 
     <entry>
         <title>Devlog Pribadi: BlankOn 12 Verbeek</title>
         <author>
             <name>Yassir A. P.</name>
         </author>
-        <link href="https://yassir-a-p.github.io/blog/devlog-blankon-12-verbeek/"/>
-        <id>https://yassir-a-p.github.io/blog/devlog-blankon-12-verbeek/</id>
+        <link href="https://yassir-a-p.github.io/devlog-blankon-12-verbeek/"/>
+        <id>https://yassir-a-p.github.io/devlog-blankon-12-verbeek/</id>
             <category term="Open Source"/>
             <category term="GNU/Linux"/>
             <category term="BlankOn"/>
 
-        <updated>2020-12-05T11:11:58+07:00</updated>
+        <updated>2020-12-05T22:34:30+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://yassir-a-p.github.io/blog/media/posts/4/NugrohoDwiHartawan-blankon_metal_tile-Verbeek-1280-520.webp" alt="" />
+                        <img src="https://yassir-a-p.github.io/media/posts/4/NugrohoDwiHartawan-blankon_metal_tile-Verbeek-1280-520-2.webp" alt="" />
                     Sebenarnya saya malu untuk menggolongkan ini sebagai Devlog, developer's log, alias jurnal developer (pengembang). Belum ada kontribusi apa-apa, tapi sudah sok sudah pantas mengaku ikut mengembangkan. 😅 Tapi semoga niat baik ini benar-benar terlaksana dan dapat berkontribusi, yang minimal tidak malu-maluin dan tidak hanya sekedar&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://yassir-a-p.github.io/blog/media/posts/4/NugrohoDwiHartawan-blankon_metal_tile-Verbeek-1280-520.webp" alt="" />
+                    <img src="https://yassir-a-p.github.io/media/posts/4/NugrohoDwiHartawan-blankon_metal_tile-Verbeek-1280-520-2.webp" alt="" />
                 <pre>Sebenarnya saya malu untuk menggolongkan ini sebagai Devlog, <em>developer's log</em>, alias jurnal <em>developer </em>(pengembang). Belum ada kontribusi apa-apa, tapi sudah sok sudah pantas mengaku ikut mengembangkan. 😅<br>Tapi semoga niat baik ini benar-benar terlaksana dan dapat berkontribusi, yang minimal tidak <em>malu-maluin </em>dan tidak hanya sekedar tulis nama. Aamiin...</pre>
 <h2><span style="color: #17a4a0;">Awal Mula</span></h2>
 <p>Per tanggal 3 Desember 2020, saya kirim surel ke <a href="https://groups.google.com/g/blankon-dev/" title="Milis alias mailing list Pengembang BlankOn" target="_blank" rel="noopener noreferrer">milis Pengembang BlankOn</a>, mengajukan diri bergabung menjadi anggota tim Pengembang BlankOn, khususnya untuk rilis Verbeek yang akan datang. Saya mengajukan diri nekat masuk sebagai anggota Tim Pemaket, tim yang kurang lebih memroses dan merawat paket-paket yang nantinya sering digunakan pengguna, yang familier bagi pengguna umum yaitu ketika memasang aplikasi tertentu dengan perintah <code>apt/apt-get install</code> ataupun memperbarui semua pembaruan dari paket-paket yang ada dengan <code>apt/apt-get upgrade</code>, yang sebenarnya sudah bisa diakses secara modern lewat GUI seperti pada s<em>oftwares center</em> semacam <strong>Discover</strong> pada Plasma, atau <strong>Softwares</strong> pada Gnome.</p>
@@ -41,10 +41,22 @@
 <ul style="list-style-type: square;">
 <li>Membaca panduan pemaketan yang telah ditulis tim BlankOn dan referensi panduan dari Debian:
 <ol style="list-style-type: lower-alpha;">
+<li><a href="https://www.youtube.com/watch?v=Hsodl-xXL-w" title="video Youtube rekaman lokakarya 20201106" target="_blank" rel="noopener noreferrer">Lokakarya Pemaketan Dasar 20201106</a> <code><span style="color: #b96ad9;"><em>In Progress</em></span></code></li>
 <li><a href="http://antosamalona.onmi.my.id/membuat-paket-di-blankon/" target="_blank" rel="noopener noreferrer">Membuat Paket di BlankOn</a>, blog pak Anto <code><span style="color: #b96ad9;"><em>In Progress</em></span></code></li>
 <li><a href="https://github.com/BlankOn/wiki/blob/master/TimPengembang/Pemaket/PanduanIrgshCLIUntukPemaket.md" target="_blank" rel="noopener noreferrer">Panduan IrgshCLI untuk Pemaket</a> <code><em><span style="color: #ba372a;">To Do</span></em></code></li>
 <li><a href="https://github.com/BlankOn/wiki/blob/master/TimPengembang/Pemaket/PanduanPemaketanMenggunakanIrgshCLI.md" target="_blank" rel="noopener noreferrer">Panduan Pemaketan Menggunakan IrgshCLI</a> <code><em><span style="color: #ba372a;">To Do</span></em></code></li>
-<li>Referensi: <a href="https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.en.pdf" title="Debian's Packaging Tutorial as a PDF document" target="_blank" rel="noopener noreferrer">Packaging Tutorial</a> oleh Debian. <code><em><span style="color: #ba372a;">To Do</span></em></code></li>
+<li>Referensi: <a href="https://www.debian.org/doc/manuals/packaging-tutorial/packaging-tutorial.en.pdf" title="Debian's Packaging Tutorial as a PDF document" target="_blank" rel="noopener noreferrer">Packaging Tutorial</a> oleh Debian. <code><em><span style="color: #ba372a;">To Do</span></em></code>
+<ol>
+<li>CATATAN: apa <em>prerequisites</em> untuk bisa memahami panduan pemaketan yang disediakan dengan asumsi sejak tingkat terendah (mengetahui cara kerja  :
+<ol style="list-style-type: lower-greek;">
+<li>perintah dasar CLI</li>
+<li>dasar penggunaan Debian based distro: interaksi dengan APT, repo, sources.list</li>
+<li>gambaran besar apa yang terjadi ketika proses build dengan Makefile dan instalasi dari kode sumber (<em>source code</em>); dependensi build vs dependensi instalasi/runtime</li>
+<li>gambaran besar alur pemaketan dari hulu (<em>upstream: Debian</em>) ke Blankon</li>
+</ol>
+</li>
+</ol>
+</li>
 </ol>
 </li>
 </ul>
@@ -56,11 +68,11 @@
         <author>
             <name>Yassir A. P.</name>
         </author>
-        <link href="https://yassir-a-p.github.io/blog/apa-itu-aplikasi-blender/"/>
-        <id>https://yassir-a-p.github.io/blog/apa-itu-aplikasi-blender/</id>
+        <link href="https://yassir-a-p.github.io/apa-itu-aplikasi-blender/"/>
+        <id>https://yassir-a-p.github.io/apa-itu-aplikasi-blender/</id>
             <category term="Blender"/>
 
-        <updated>2020-12-02T22:40:54+07:00</updated>
+        <updated>2020-12-05T23:06:50+07:00</updated>
             <summary>
                 <![CDATA[
                     Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline. -- Blender.org T: Apa sih aplikasi Blender itu? J: Blender adalah aplikasi yang&hellip;
@@ -83,8 +95,8 @@
         <author>
             <name>Yassir A. P.</name>
         </author>
-        <link href="https://yassir-a-p.github.io/blog/persiapan-sebelum-memasang-instalasi-linux/"/>
-        <id>https://yassir-a-p.github.io/blog/persiapan-sebelum-memasang-instalasi-linux/</id>
+        <link href="https://yassir-a-p.github.io/persiapan-sebelum-memasang-instalasi-linux/"/>
+        <id>https://yassir-a-p.github.io/persiapan-sebelum-memasang-instalasi-linux/</id>
             <category term="Open Source"/>
             <category term="GNU/Linux"/>
 

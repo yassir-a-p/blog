@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "633596423ce6a21ea06a7992fb9ddfeb"
+        "md5": "ffa315c32116fe080edd12dc7f6298a9"
     },
     {
         "path": "apa-itu-aplikasi-blender",
@@ -12,7 +12,7 @@
     {
         "path": "/apa-itu-aplikasi-blender/index.html",
         "type": "file",
-        "md5": "5f67516bd5aab039809913425bff3f25"
+        "md5": "3125f3c274aa2519177ac1ad9ea4efa6"
     },
     {
         "path": "assets",
@@ -42,7 +42,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "c52c9cd5e60340dab2eb00b07f5d52b8"
+        "md5": "7b5ff74411bc214bc72ac8111303f978"
     },
     {
         "path": "assets/js",
@@ -107,22 +107,22 @@
     {
         "path": "/devlog-blankon-12-verbeek/index.html",
         "type": "file",
-        "md5": "a1e31ddda8f43127255fcb84d94d5e7f"
+        "md5": "3675d6453ccac7071ac23c570b7989fa"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ed64d72b402a824a58cf22150ab51702"
+        "md5": "981656ef8f83cbdf4ff2576596cf7833"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "eeb2c8c7f9944db83f085eac3c1662ab"
+        "md5": "0479196d5dcaff1d0403d707de710d5c"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "217def6323f3cf3727ddd40462ef9bec"
+        "md5": "9fbf436f8c68601c4dce588bffccae15"
     },
     {
         "path": "media",
@@ -145,12 +145,22 @@
         "md5": false
     },
     {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/4/NugrohoDwiHartawan-blankon_metal_tile-Verbeek-1280-520.webp",
+        "path": "/media/posts/4/NugrohoDwiHartawan-blankon_metal_tile-Verbeek-1280-520-2.webp",
         "type": "file",
         "md5": "eb1d160127e18de79cebe9a4a0a20499"
     },
@@ -180,6 +190,11 @@
         "md5": false
     },
     {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
         "path": "penulis",
         "type": "directory",
         "md5": false
@@ -192,7 +207,7 @@
     {
         "path": "/penulis/yassir-a-p/index.html",
         "type": "file",
-        "md5": "15470edd5e50b9d46bcae271ca834bdf"
+        "md5": "9e7fd6e1ba48950b457a6050b43cf376"
     },
     {
         "path": "persiapan-sebelum-memasang-instalasi-linux",
@@ -202,22 +217,22 @@
     {
         "path": "/persiapan-sebelum-memasang-instalasi-linux/index.html",
         "type": "file",
-        "md5": "718377b345d32a634a102368cb837a01"
+        "md5": "a2773c90fc578ba128aace8065e52559"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "53cf550b4d3ded6137972f536e9c231a"
+        "md5": "f38ffc9f73202409148be5616942f645"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "4bbc98990c237797df1c74e7334fb608"
+        "md5": "4233d2f508c74a8651c28e1f968d8900"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "25d5946199a264c4fc7475f1246827c8"
+        "md5": "72b3d8d3b5683cfefd9c07f322355032"
     },
     {
         "path": "sitemap.xsl",
@@ -237,7 +252,7 @@
     {
         "path": "/tag/blankon/index.html",
         "type": "file",
-        "md5": "92c6286d2e1499baa45440fa957964ea"
+        "md5": "d4ec1b76bd0bda349d20ba793216a01a"
     },
     {
         "path": "tag/blender",
@@ -247,7 +262,7 @@
     {
         "path": "/tag/blender/index.html",
         "type": "file",
-        "md5": "8ede48708610c215227d0badd866e0e7"
+        "md5": "ec073739cd4e07ddabb449c1ec636937"
     },
     {
         "path": "tag/gnulinux",
@@ -257,12 +272,12 @@
     {
         "path": "/tag/gnulinux/index.html",
         "type": "file",
-        "md5": "26f4fc5460d3e55b09523c8d86d914aa"
+        "md5": "af3758134262b8644560e6a0ce039b65"
     },
     {
         "path": "/tag/index.html",
         "type": "file",
-        "md5": "d760b9a7289a6283313e66a5a15a6e93"
+        "md5": "7a34ea818a90d37748293d6ad1314c0e"
     },
     {
         "path": "tag/open-source",
@@ -272,6 +287,6 @@
     {
         "path": "/tag/open-source/index.html",
         "type": "file",
-        "md5": "5b210783845bf3ccf543cebcfb550f96"
+        "md5": "766c75fd00a6c3273aa7e584d87d679b"
     }
 ]
